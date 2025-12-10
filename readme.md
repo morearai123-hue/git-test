@@ -15,7 +15,7 @@ git status #check status
 git branch -M main
 git remote add origin url
 git remote -v #check remote connection
-git push -u origin main
+git push -u origin main #set main as upstream branch for push
 
 #get code
 git pull
